@@ -11,4 +11,4 @@ do
 	echo "Enter a valid username!"
 	read -r  NAME
 done
-echo "Thank you"
+echo "Thank you!"
